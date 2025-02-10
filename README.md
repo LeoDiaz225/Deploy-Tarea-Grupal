@@ -1,6 +1,6 @@
 # Proyecto-grupal
 
-Clase 7: Trabajo integrador
+Trabajo integrador
 Proyecto: Desarrollo de un sitio web para una tienda online
  
 Descripción del Proyecto
